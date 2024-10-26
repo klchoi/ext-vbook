@@ -198,10 +198,10 @@
         {
             "name": "mmdaobaobei",
             "author": "B",
-            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/mmdaobaobei/plugin.zip",
+            "path": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/mmdaobaobei/plugin.zip",
             "version": 1,
-            "source": "https://www.mmdaobaobei.com",
-            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/mmdaobaobei/icon.png",
+            "source": "http://www.mmdaobaobei.com",
+            "icon": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/mmdaobaobei/icon.png",
             "description": " - Nữu Nữu câu lạc bộ văn học",
             "type": "chinese_novel",
             "tag": "nsfw"
@@ -330,10 +330,10 @@
         {
             "name": "tuoinung",
             "author": "B",
-            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tuoinung/plugin.zip",
+            "path": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/tuoinung/plugin.zip",
             "version": 7,
             "source": "https://tuoinung.cc",
-            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tuoinung/icon.png",
+            "icon": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/tuoinung/icon.png",
             "description": "18+",
             "type": "novel",
             "locale": "vi-VN",

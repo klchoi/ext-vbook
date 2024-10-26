@@ -18,10 +18,10 @@ files.forEach((file) => {
     data.data.push({
         "name": plugin_detail['metadata']['name'],
         "author": plugin_detail['metadata']['author'],
-        "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/" + name_folder + "/plugin.zip",
+        "path": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/" + name_folder + "/plugin.zip",
         "version": plugin_detail['metadata']['version'],
         "source": plugin_detail['metadata']['source'],
-        "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/" + name_folder + "/icon.png",
+        "icon": "https://raw.githubusercontent.com/klchoi/ext-vbook/main/" + name_folder + "/icon.png",
         "description": plugin_detail['metadata']['description'],
         "type": plugin_detail['metadata']['type'],
         "locale": plugin_detail['metadata']['locale'],
