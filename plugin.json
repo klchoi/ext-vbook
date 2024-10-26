@@ -196,6 +196,17 @@
             "tag": "nsfw"
         },
         {
+            "name": "mmdaobaobei",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/mmdaobaobei/plugin.zip",
+            "version": 1,
+            "source": "https://www.mmdaobaobei.com",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/mmdaobaobei/icon.png",
+            "description": " - Nữu Nữu câu lạc bộ văn học",
+            "type": "chinese_novel",
+            "tag": "nsfw"
+        },
+        {
             "name": "ntruyen",
             "author": "B",
             "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/ntruyen/plugin.zip",
@@ -315,6 +326,18 @@
             "description": "Đọc truyện trên trang tienhiep.net",
             "type": "novel",
             "locale": "vi_VN"
+        },
+        {
+            "name": "tuoinung",
+            "author": "B",
+            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tuoinung/plugin.zip",
+            "version": 7,
+            "source": "https://tuoinung.cc",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/tuoinung/icon.png",
+            "description": "18+",
+            "type": "novel",
+            "locale": "vi-VN",
+            "tag": "nsfw"
         },
         {
             "name": "xinyushuwu",
